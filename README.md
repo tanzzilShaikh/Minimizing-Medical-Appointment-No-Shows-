@@ -3,7 +3,7 @@ OBJECTIVE:  To develop a predictive model that estimates the likelihood of a pat
 
 DATASETS:
 1) Clinic dataset (Toronto)
-2) No-show dataset from kaggle (Brazil)
+2) No-show dataset from kaggle (Brazil, for more features and further analysis)
 
 GEOGRAPHIC FOCUS: 
 Greater Toronto Area (GTA), Ontario, Canada.
